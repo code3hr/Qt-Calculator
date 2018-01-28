@@ -11,3 +11,4 @@ you can visit https://wiki.qt.io/Install_Qt_5_on_Ubuntu and follow the instructi
 	$ cd the directory
 	$ ./Calculator
 ```
+![calc](https://user-images.githubusercontent.com/16048403/35484703-f39a637c-0453-11e8-8999-e94c6f1916f0.png)
